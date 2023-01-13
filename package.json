@@ -66,8 +66,8 @@
     "start": "node heart.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Eternity-Team",
+  "author": "Ashwin",
   "license": "AGPL-3.0",
   "repository": "https://github.com/EternityBots/Nezuko.git",
-  "private": false
+  "private": true
 }
